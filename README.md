@@ -46,22 +46,23 @@
 ![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.16.36%20PM.jpeg?raw=true)
 ## Nginx
 ### Crear DockerfileNginx
-![image alt]()
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.16.47%20PM.jpeg?raw=true)
 ### Crear index.html
-![image alt]()
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.16.51%20PM.jpeg?raw=true)
 ### Crear login.html
-![image alt]()
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.17.01%20PM.jpeg?raw=true)
 ### Crear registro.html
-![image alt]()
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.17.15%20PM.jpeg?raw=true)
 ### Crear script.js
-![image alt]()
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.17.20%20PM.jpeg?raw=true)
 ### Crear style.css
-![image alt]()
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.17.25%20PM.jpeg?raw=true)
 ### Copiar todos los archivos HTML, JS y CSS de la carpeta del proyecto hacia /mnt/nginx
-![image alt]()
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.17.35%20PM.jpeg?raw=true)
 ### Construir img_nginx
-![image alt]()
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.18.21%20PM.jpeg?raw=true)
 ### Crear contenedor_nginx
-![image alt]()
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.18.26%20PM.jpeg?raw=true)
 ### Actualizar los paquetes e instalar nano
-![image alt]()
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.18.31%20PM.jpeg?raw=true)
+## Mysql
