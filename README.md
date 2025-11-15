@@ -66,3 +66,15 @@
 ### Actualizar los paquetes e instalar nano
 ![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.18.31%20PM.jpeg?raw=true)
 ## Mysql
+### Crear DockerfileMysql
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/1.png?raw=true)
+## Pruebas de funcionamiento
+
+### Construir img_mysql
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/2.png?raw=true)
+### Crear contenedor_mysql
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/3.png?raw=true)
+### Abrir terminal de la base de datos y crear base de datos universidad
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/4.png?raw=true)
+### Crear tabla de estudiantes
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/5.png?raw=true)
