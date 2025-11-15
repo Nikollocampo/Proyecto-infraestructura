@@ -25,13 +25,21 @@
 ## Creación de imágenes con Dockerfile
 ## Apache
 ### Creación DockerfileApache
-
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.15.26%20PM.jpeg?raw=true)
 ### Creación index.html
-
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.15.32%20PM.jpeg?raw=true)
 ### Creación login.html
-
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.15.39%20PM.jpeg?raw=true)
 ### Creación registro.html
-
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.15.49%20PM.jpeg?raw=true)
 ### Creación script.js
-
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.15.58%20PM.jpeg?raw=true)
 ### Creación style.css
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.16.04%20PM.jpeg?raw=true)
+### Copiar todos los archivos HTML, JS y CSS de la carpeta del proyecto hacia /mnt/apache
+
+### Construir img_apache
+
+### Crear contenedor_apache
+
+### Actualizar los paquetes e instalar nano
