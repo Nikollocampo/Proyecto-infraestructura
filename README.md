@@ -37,9 +37,31 @@
 ### Creación style.css
 ![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.16.04%20PM.jpeg?raw=true)
 ### Copiar todos los archivos HTML, JS y CSS de la carpeta del proyecto hacia /mnt/apache
-
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.16.11%20PM.jpeg?raw=true)
 ### Construir img_apache
-
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.16.20%20PM.jpeg?raw=true)
 ### Crear contenedor_apache
-
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.16.27%20PM.jpeg?raw=true)
 ### Actualizar los paquetes e instalar nano
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/WhatsApp%20Image%202025-11-14%20at%208.16.36%20PM.jpeg?raw=true)
+## Nginx
+### Crear DockerfileNginx
+![image alt]()
+### Crear index.html
+![image alt]()
+### Crear login.html
+![image alt]()
+### Crear registro.html
+![image alt]()
+### Crear script.js
+![image alt]()
+### Crear style.css
+![image alt]()
+### Copiar todos los archivos HTML, JS y CSS de la carpeta del proyecto hacia /mnt/nginx
+![image alt]()
+### Construir img_nginx
+![image alt]()
+### Crear contenedor_nginx
+![image alt]()
+### Actualizar los paquetes e instalar nano
+![image alt]()
