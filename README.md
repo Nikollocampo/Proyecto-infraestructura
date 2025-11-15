@@ -1,3 +1,5 @@
+#### Isabela Ospina Baquero
+#### Nikoll Sofia Ocampo Gomez
 # Proyecto-infraestructura
 ## Configuración de RAID y LVM
 ### Crear los raid
@@ -68,8 +70,6 @@
 ## Mysql
 ### Crear DockerfileMysql
 ![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/1.png?raw=true)
-## Pruebas de funcionamiento
-
 ### Construir img_mysql
 ![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/2.png?raw=true)
 ### Crear contenedor_mysql
@@ -78,3 +78,15 @@
 ![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/4.png?raw=true)
 ### Crear tabla de estudiantes
 ![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/5.png?raw=true)
+## Pruebas de funcionamiento
+## Apache 
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/7.png?raw=true)
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/8.png?raw=true)
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/9.png?raw=true)
+## Nginx
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/10.png?raw=true)
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/11.png?raw=true)
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/12.png?raw=true)
+## Mysql
+![image alt](https://github.com/Nikollocampo/Proyecto-infraestructura/blob/main/6.png?raw=true)
+
